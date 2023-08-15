@@ -4,7 +4,6 @@ import ThankYouState from "./ThankYouState.js";
 export default function App() {
   return (
     <div className="App bg-very-dark-blue grid place-items-center min-h-screen">
-      <h1>Hello World</h1>
       <Main />
     </div>
   );
