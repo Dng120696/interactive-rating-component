@@ -2,6 +2,7 @@ export default function RatingState({ handleRate, handleSubmit }) {
   return (
     <section>
       <h1>hello</h1>
+      <h1>hello</h1>
       <img
         src="./images/icon-star.svg"
         alt=""
